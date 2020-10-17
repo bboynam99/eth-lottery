@@ -4,6 +4,7 @@
 
 
 # Description
+https://bboynam99.github.io/eth-lottery/app/
 
 Eth-Lottery is a decentralised lottery contract-cum-web app that is powered purely by the Ethereum blockchain. Players may place unlimited bets on numbers between 0 to 100 for a small price and the bet money accumulates in the lottery pool. At the end of the lottery cycle, a draw is triggered and a winning number is selected. The pool money (less overheads) will then be distributed equally amongst all the winners. If there are no winners for a round, the pool money is rolled over for the next draw.
 
